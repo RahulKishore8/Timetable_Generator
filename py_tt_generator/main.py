@@ -1,7 +1,6 @@
 import os
 import fileinput
 
-print("\n\n\n!!!!!!!!!!!!!!!!!!!!!!!!!!!!!ENTER LINK WITHOUT HTTPS://!!!!!!!!!!!!!!!!!!!!!!!!!!!!\n\n\n\n")
 subject = []
 links = []
 day_list = ['a', 'b', 'c', 'e', 'f', 'g']
